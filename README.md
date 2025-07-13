@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pytpo.pytpo&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seanjr2847.seanjr2847&"  />
 </div>
 
 ###
@@ -50,9 +50,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pytpo/pytpo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pytpo/pytpo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pytpo/pytpo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seanjr2847/seanjr2847/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seanjr2847/seanjr2847/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/seanjr2847/seanjr2847/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
